@@ -1,4 +1,6 @@
-# Aplicación Web Gestión de Cine
+![image](https://github.com/jrevenga/AplicacionWeb-GestionCine/assets/124138100/1c7dfca5-bf46-497f-8a6c-9b23897b34c5)# Aplicación Web Gestión de Cine
+
+![image](https://github.com/jrevenga/AplicacionWeb-GestionCine/assets/124138100/3f689e9b-a486-4ce0-a239-b6f3aa6a6fc9)
 
 Este proyecto web se centra en la creación de una aplicación cliente/servidor utilizando el patrón de diseño Modelo Vista Controlador (MVC). Se han incorporado diversas herramientas y tecnologías a lo largo de la asignatura, cumpliendo con los siguientes requisitos:
 
